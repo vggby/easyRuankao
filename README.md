@@ -65,3 +65,7 @@ A: 点击工具栏中的"切换布局"按钮可以在左右布局和上下布局
 ## 联系与支持
 
 如有问题或建议，请联系开发者。
+## 📄 许可证
+
+本项目采用 MIT 许可证 - 详见 [LICENSE](https://github.com/muyuanlove/sensitive_info_extractor/blob/main/LICENSE) 文件
+
